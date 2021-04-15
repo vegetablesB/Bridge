@@ -17,7 +17,7 @@ Main Software<br>
 - [License](#license)
 
 ## Background
-For now, the bridge engineering project need to deal with lots of raw data. We choose to develop a windows software in order to show and process the raw data the bridge engineering project.<br>
+For now, the bridge engineering project need to deal with lots of raw data. We choose to develop a windows software in order to show and process the raw data of the bridge engineering project.<br>
 In this project we finished the frame of the software which include input excel file, output excel file, search, show the raw data and some details.
 
 ## Precautions
