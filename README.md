@@ -1,8 +1,12 @@
 # Bridge
 This is a windows APP developed for manage the bridge engineering project.<br>
 Related Word: winform C# database mysql Excel OLEDB Microsoft.Office.Interop.Excel<br>
-Login username:root and password:123[write in Form2.cs](https://github.com/vegetablesB/bridge/blob/master/Form2.cs)<br>
+Login username:root and password:123  [Writed in Form2.cs](https://github.com/vegetablesB/bridge/blob/master/Form2.cs)<br>
 ![image](https://user-images.githubusercontent.com/44360183/114899423-88346800-9e45-11eb-9814-978a26ca2d2a.png)
+Database information writed in [Form1.cs](https://github.com/vegetablesB/bridge/blob/master/Form1.cs)<br>
+Main Software<br>
+![image](https://user-images.githubusercontent.com/44360183/114900008-08f36400-9e46-11eb-8041-87f59a95b0d1.png)
+
 
 
 ## Table of Contents
@@ -42,6 +46,5 @@ Thanks for Rasa spacy rapidapi and [python-telegram-bot](https://github.com/pyth
 
 ![image](https://user-images.githubusercontent.com/44360183/114896539-03484f00-9e43-11eb-8a1c-d1c097f5b498.png)
 ![image](https://user-images.githubusercontent.com/44360183/114896566-0a6f5d00-9e43-11eb-9333-7e845d2b452b.png)
-![image](https://user-images.githubusercontent.com/44360183/114896574-0cd1b700-9e43-11eb-8ee6-5aa49ebafc2a.png)
 
 
