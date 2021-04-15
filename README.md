@@ -26,7 +26,7 @@ If output excel fuction not working. You can reinstall Office.
 
 ## Contributing
 [@vegetablesB](https://github.com/vegetablesB)  
-[@mr.Bai]
+@mr.Bai
 
 ## License
 [MIT © Richard McRichface.](../LICENSE)
