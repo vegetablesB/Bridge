@@ -1,5 +1,5 @@
 # Bridge
-This is a windows APP developed for manage the bridge engineering project.<br>
+This is a windows APP developed for managing the bridge engineering project.<br>
 Related Word: winform C# database mysql Excel OLEDB Microsoft.Office.Interop.Excel<br>
 Login username:root and password:123 writed in [Form2.cs](https://github.com/vegetablesB/bridge/blob/master/Form2.cs)<br>
 Database information writed in [Form1.cs](https://github.com/vegetablesB/bridge/blob/master/Form1.cs)<br>
