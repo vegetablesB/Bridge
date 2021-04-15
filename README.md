@@ -21,7 +21,7 @@ For now, the bridge engineering project need to deal with lots of raw data. We c
 In this project we finished the frame of the software which include input excel file, output excel file, search, show the raw data and some details.
 
 ## Precautions
-Microsoft Access Database Engine need for input Excel fuction.  [Microsoft Access Database Engine](https://www.microsoft.com/en-hk/download/details.aspx?id=13255).  
+Microsoft Access Database Engine needed for input Excel fuction.  [Microsoft Access Database Engine](https://www.microsoft.com/en-hk/download/details.aspx?id=13255).  
 If output excel fuction not working. You can reinstall Office.
 
 ## Contributing
